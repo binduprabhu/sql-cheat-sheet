@@ -1,2 +1,8 @@
-# sql-cheat-sheet
-📌 Practical SQL Cheat Sheet with real-world queries from basics to advanced scenarios. Great for data analysis and interview prep.
+# 📌 SQL Cheat Sheet - Practical SQL for Data Analysts
+
+This repository is a collection of practical SQL examples covering **essential to intermediate SQL topics** used in real data analysis work and interview preparation.
+
+---
+
+## 📂 Folder Structure
+
