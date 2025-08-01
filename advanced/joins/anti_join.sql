@@ -1,5 +1,5 @@
 
--- 📌 ANTI JOIN: Records in one table with no match in the other
+-- ANTI JOIN: Records in one table with no match in the other
 
 -- Employees without departments
 SELECT e.*
