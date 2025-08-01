@@ -1,4 +1,4 @@
--- 📌 Group By & Aggregations
+-- Group By & Aggregations
 
 -- Count number of employees per department
 SELECT department, COUNT(*) AS employee_count
