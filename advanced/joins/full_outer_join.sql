@@ -1,5 +1,5 @@
 
--- 📌 FULL OUTER JOIN: Combine all records from both tables
+-- FULL OUTER JOIN: Combine all records from both tables
 
 SELECT e.name, d.department_name
 FROM employees e
