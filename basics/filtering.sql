@@ -1,4 +1,4 @@
--- 📌 Filtering Data (WHERE, LIKE, IN, BETWEEN)
+-- Filtering Data (WHERE, LIKE, IN, BETWEEN)
 
 -- WHERE clause
 SELECT * FROM employees WHERE department = 'Sales';
