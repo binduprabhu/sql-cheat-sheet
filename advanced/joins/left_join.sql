@@ -1,5 +1,5 @@
 
--- 📌 LEFT JOIN: Return all records from the left table, match from the right table if possible
+--  LEFT JOIN: Return all records from the left table, match from the right table if possible
 
 -- Show all employees and their department names (if assigned)
 SELECT e.name, d.department_name
