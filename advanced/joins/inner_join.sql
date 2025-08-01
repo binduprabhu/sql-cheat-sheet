@@ -1,5 +1,5 @@
 
--- 📌 INNER JOIN: Return only records with matches in both tables
+--  INNER JOIN: Return only records with matches in both tables
 
 -- List all employees along with their department names
 SELECT e.name, d.department_name
