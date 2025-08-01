@@ -1,5 +1,5 @@
 
--- 📌 Basic SQL Structure
+-- Basic SQL Structure
 
 -- View all rows
 SELECT * FROM employees;
