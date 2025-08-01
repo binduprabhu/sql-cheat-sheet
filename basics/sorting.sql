@@ -1,4 +1,4 @@
--- 📌 Sorting Data (ORDER BY)
+-- Sorting Data (ORDER BY)
 
 -- Sort employees by salary in descending order
 SELECT name, salary 
